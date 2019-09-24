@@ -31,7 +31,7 @@ function startGame() {
     gameArea.appendChild(car);
     requestAnimationFrame(playGame);
 
-};
+}
 
 function playGame() {
     console.log('Play game!');
